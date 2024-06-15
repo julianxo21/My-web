@@ -1,0 +1,23 @@
+2024-06-12 20:30:27.580 [info] 
+
+
+
+
+2024-06-12 20:30:27.611 [info] Extension host agent started.
+2024-06-12 20:30:27.731 [info] Started initializing default profile extensions in extensions installation folder. file:///home/julian/.vscode-server/extensions
+2024-06-12 20:30:27.761 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/julian/.vscode-server/extensions
+2024-06-12 20:30:28.112 [info] [127.0.0.1][9f4ef76f][ManagementConnection] New connection established.
+2024-06-12 20:30:28.545 [info] [127.0.0.1][1f20e03d][ExtensionHostConnection] New connection established.
+2024-06-12 20:30:28.552 [info] [127.0.0.1][1f20e03d][ExtensionHostConnection] <2791> Launched Extension Host Process.
+2024-06-12 20:30:28.947 [info] Installing extensions...
+2024-06-12 20:30:29.718 [info] Installing extension 'ms-ceintl.vscode-language-pack-es'...
+2024-06-12 20:30:29.720 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2024-06-12 20:30:29.738 [info] Installing extension: ms-ceintl.vscode-language-pack-es file:///home/julian/.vscode-server/extensions/extensions.json
+2024-06-12 20:30:32.004 [info] Extension signature verification result for ms-ceintl.vscode-language-pack-es: Success. Executed: true. Duration: 1456ms.
+2024-06-12 20:30:32.196 [info] Extracted extension to file:///home/julian/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.89.2024050109: ms-ceintl.vscode-language-pack-es
+2024-06-12 20:30:32.201 [info] Renamed to /home/julian/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.89.2024050109
+2024-06-12 20:30:32.247 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2024-06-12 20:30:32.288 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es file:///home/julian/.vscode-server/extensions/extensions.json
+2024-06-12 20:30:32.290 [info] Extension 'ms-ceintl.vscode-language-pack-es' v1.89.2024050109 was successfully installed.
+2024-06-12 20:40:30.621 [info] [127.0.0.1][9f4ef76f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-06-12 20:40:30.698 [info] [127.0.0.1][1f20e03d][ExtensionHostConnection] <2791> Extension Host Process exited with code: 0, signal: null.
